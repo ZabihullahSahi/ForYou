@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Julia Desktop Demo](./Screen Shots/Portfolio 1.png "Desktop Demo")
+![ZabihullhSahi Desktop Demo](./Screen Shots/Portfolio 1.png "Desktop Demo")
 
 ### Prerequisites
 
