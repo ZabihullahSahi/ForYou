@@ -12,7 +12,8 @@
 
 ### Demo Screeshots
 
-![ZabihullhSahi Desktop Demo](./Screen Shots/Portfolio 1.png "Desktop Demo")
+![Portfolio 1](https://user-images.githubusercontent.com/107499096/205632596-e3c5e68f-f325-4c94-b23c-a4888c9ab46c.png)
+
 
 ### Prerequisites
 
